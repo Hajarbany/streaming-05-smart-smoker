@@ -20,10 +20,8 @@
 ## Screenshots of the work: 
 - RabbitMQ Admin Site: 
 <img width="1317" alt="Screenshot 2023-09-23 at 12 19 35 AM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/90e05ba5-65c5-4961-ad75-c7a53a4efdb6">
-
 - Terminal: 
 <img width="870" alt="Screenshot 2023-09-23 at 12 22 05 AM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/afa4194a-8551-47fe-be2f-a1045361b329">
-
 - Entire page with terminal (Showing my name):
 <img width="1126" alt="Screenshot 2023-09-23 at 12 22 17 AM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/4a1ede87-7709-4d34-a23f-b25c6c409449">
 
