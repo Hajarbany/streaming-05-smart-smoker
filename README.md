@@ -25,6 +25,16 @@
 - Entire page with terminal (Showing my name):
 <img width="1126" alt="Screenshot 2023-09-23 at 12 22 17 AM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/4a1ede87-7709-4d34-a23f-b25c6c409449">
 
+# streaming-05-smart-smoker
+# Student: Hajar Banyalmarjeh
+# Date: September 30th 2023
+    The purpose of this module is to learn to create a script that listens for work messages contiously.
+    In the consumer script, we have three queues that are each being used to listen for messages separately about the temperatures of the Smoker, Food A, and Food B. 
+    We set up basic logging configuration, and we idenfied our variables. 
+    In the consumer file, we wrote in detail how we ran our code. 
+
+## Screenshots of the work: 
+s
 
 
 
