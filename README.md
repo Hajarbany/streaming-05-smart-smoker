@@ -41,5 +41,6 @@
 <img width="1486" alt="Screenshot 2023-09-30 at 8 41 26 PM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/050a8382-7c25-4027-9bd4-086521591f22">
 
 
+<img width="779" alt="Screenshot 2023-09-30 at 9 08 22 PM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/47efc98f-fd0a-454d-897d-04c10e891f4b">
 
 
