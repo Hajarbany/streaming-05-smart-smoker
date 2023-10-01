@@ -28,13 +28,17 @@
 # streaming-05-smart-smoker
 # Student: Hajar Banyalmarjeh
 # Date: September 30th 2023
-    The purpose of this module is to learn to create a script that listens for work messages contiously.
-    In the consumer script, we have three queues that are each being used to listen for messages separately about the temperatures of the Smoker, Food A, and Food B. 
-    We set up basic logging configuration, and we idenfied our variables. 
-    In the consumer file, we wrote in detail how we ran our code. 
+  The purpose of this module is to learn to create a script that listens for work messages contiously.
+  In the consumer script, we have three queues that are each being used to listen for messages separately about the temperatures of the Smoker, Food A, and Food B. 
+  We set up basic logging configuration, and we idenfied our variables. 
+  In the consumer file, we wrote in detail how we ran our code. 
+  I chose to have one consumer file with all three. 
 
 ## Screenshots of the work: 
-s
+<img width="967" alt="Screenshot 2023-09-30 at 8 40 49 PM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/93c2f18e-2fa1-4b2c-aad6-1353f44793e1">
+
+
+<img width="1486" alt="Screenshot 2023-09-30 at 8 41 26 PM" src="https://github.com/Hajarbany/streaming-05-smart-smoker/assets/97689037/050a8382-7c25-4027-9bd4-086521591f22">
 
 
 
